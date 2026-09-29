@@ -29,7 +29,7 @@ I kept the measures split into separate tables (`Measures Table`, `Measures Tabl
 Clone the repo and open the `.pbix` in Power BI Desktop:
 
 ```bash
-git clone https://github.com/ayush16-ap/Loan-Default-Risk-Analysis-Dashboard.git
+git clone https://github.com/Piyush-Pundir/Loan-Default-Risk-Analysis-Dashboard.git
 ```
 
 Once it's open, just move between the 3 tabs at the bottom. On the last page, click into the decomposition tree to explore what's driving loan amount up or down.
